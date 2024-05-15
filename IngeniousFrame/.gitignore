@@ -1,0 +1,11 @@
+*.o
+*.log
+my_player
+random
+*.jar
+*.txt
+players
+Logs
+Othello.json
+*.btr
+!IngeniousFrame-all-0.0.4.jar
